@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: a8da55742a887694a804579d48ef7583
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Level01
+    100002: Level02
+    100004: Level03
+    100006: Level04
+    100008: Level05
+    100010: Level06
+    100012: Level07
+    100014: Level08
+    100016: Level09
+    100018: Level10
+    100020: RailgunCannonLeft
+    100022: RailgunCannonRight
+    100024: //RootNode
+    100026: RGTBase
+    100028: RGTLowerBase
+    100030: RGTMainSection
+    100032: TurretLevelIndicatorBase
+    400000: Level01
+    400002: Level02
+    400004: Level03
+    400006: Level04
+    400008: Level05
+    400010: Level06
+    400012: Level07
+    400014: Level08
+    400016: Level09
+    400018: Level10
+    400020: RailgunCannonLeft
+    400022: RailgunCannonRight
+    400024: //RootNode
+    400026: RGTBase
+    400028: RGTLowerBase
+    400030: RGTMainSection
+    400032: TurretLevelIndicatorBase
+    2300000: Level01
+    2300002: Level02
+    2300004: Level03
+    2300006: Level04
+    2300008: Level05
+    2300010: Level06
+    2300012: Level07
+    2300014: Level08
+    2300016: Level09
+    2300018: Level10
+    2300020: RailgunCannonLeft
+    2300022: RailgunCannonRight
+    2300024: RGTBase
+    2300026: RGTLowerBase
+    2300028: RGTMainSection
+    2300030: TurretLevelIndicatorBase
+    3300000: Level01
+    3300002: Level02
+    3300004: Level03
+    3300006: Level04
+    3300008: Level05
+    3300010: Level06
+    3300012: Level07
+    3300014: Level08
+    3300016: Level09
+    3300018: Level10
+    3300020: RailgunCannonLeft
+    3300022: RailgunCannonRight
+    3300024: RGTBase
+    3300026: RGTLowerBase
+    3300028: RGTMainSection
+    3300030: TurretLevelIndicatorBase
+    4300000: RGTBase
+    4300002: RGTLowerBase
+    4300004: RGTMainSection
+    4300006: RailgunCannonRight
+    4300008: RailgunCannonLeft
+    4300010: TurretLevelIndicatorBase
+    4300012: Level01
+    4300014: Level02
+    4300016: Level03
+    4300018: Level04
+    4300020: Level05
+    4300022: Level06
+    4300024: Level07
+    4300026: Level08
+    4300028: Level09
+    4300030: Level10
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
